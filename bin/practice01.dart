@@ -28,8 +28,14 @@ void main(){//var name="Anil";
 
 //String gender ="Male";
 //print("${gender+="Test"}");
-const String hobby = "riding";
-print("My fav hobby is $hobby");
-print("My fav hobby is "+hobby);
+//const String hobby = "riding";
+//print("My fav hobby is $hobby");
+//print("My fav hobby is "+hobby);
+class Studentdetails{late String name;
+  late int age;
+  late String email;
+  Static String course="Flutter";
+
+  }
 
 }
