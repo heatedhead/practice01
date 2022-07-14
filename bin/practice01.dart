@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main(){//var name="Anil";
-  //var lname ="Raj";
+  // var lname ="Raj";
   //var age = 20;
  // stdout.write("Enter your gender\n");
  // var gender;
@@ -31,11 +31,6 @@ void main(){//var name="Anil";
 //const String hobby = "riding";
 //print("My fav hobby is $hobby");
 //print("My fav hobby is "+hobby);
-class Studentdetails{late String name;
-  late int age;
-  late String email;
-  Static String course="Flutter";
 
   }
 
-}
