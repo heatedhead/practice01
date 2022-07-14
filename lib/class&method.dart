@@ -41,6 +41,6 @@ suv(){
  suv.airbags=6;
  suv.seating_capacity=6;
  suv.fuel_economy=5.5;
- suv.model="Compass";
+ suv.model="Defender";
  suv.Mycar();
 }
